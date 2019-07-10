@@ -1,7 +1,5 @@
 # CSS - Cascade Style Sheet
 
-[<- Go Back](README.md)
-
 * **CSS** stands for **C**ascading **S**tyle **S**heets and it's a language used to describe the presentation of a document written in HTML
 * CSS describes how elements should be rendered on screen, on paper, in speech, or on other media types
 
