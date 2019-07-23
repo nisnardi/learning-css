@@ -2425,7 +2425,8 @@ body {
   * [Learn CSS Grid for free - 14 interactive screencasts](https://scrimba.com/g/gR8PTE)
 
 ### CSS animation
-[CodeSchool - Adventures in Web animations](https://www.codeschool.com/courses/adventures-in-web-animations)
+[CSS3 Animation & Transitions Crash Course](https://www.youtube.com/watch?v=zHUpx90NerM)
+[A Guide to CSS Animation](https://codeburst.io/a-guide-to-css-animation-part-1-8777f5beb1f8)
 
 ## Congratulations, you made it, now you know CSS and can enjoy this great joke!!
 ![Family Guy CSS](./resources/images/css/css.gif)
