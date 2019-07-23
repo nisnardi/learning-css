@@ -2401,12 +2401,13 @@ body {
 ### Flexbox
 * Now we can use flexbox to create fluid layouts
 * Read the following guides and tutorials:
-  * [CSS Tricks - Complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
   * [Flexbox Froggy game](http://flexboxfroggy.com)
+  * [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
+  * [CSS Tricks - Complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
+  * [CSS Tricks - `flex-grow` is weird. Or is it?](https://css-tricks.com/flex-grow-is-weird)
   * [CSS Tricks - Designing a product page layout with flexbox](https://css-tricks.com/designing-a-product-page-layout-with-flexbox)
   * [Flex Cheatsheet](https://yoksel.github.io/flex-cheatsheet)
   * [CSS Tricks - Don't overthink flexbox](https://css-tricks.com/dont-overthink-flexbox-grids)
-  * [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
   * [Wes Bos - flexbox io](https://flexbox.io)
   * [CSS3 Flexbox](https://www.pandaqi.com/Website/css3-flexbox)
   * [CSS Grid replace flexbox](https://css-tricks.com/css-grid-replace-flexbox)
